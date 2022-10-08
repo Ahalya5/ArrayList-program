@@ -30,6 +30,7 @@ public class Arraylistex4 {
         System.out.println(Miss1.method3(t1,"cholopuram"));
         System.out.println(Miss1.method4(t1,"BE",22));
         System.out.println(Miss1.method5(t1,22));
+
     }
 
 
